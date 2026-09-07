@@ -30,6 +30,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 Tools and platforms for discovering vulnerabilities, misconfigurations, and security weaknesses in APIs.
 
 - [OWASP ZAP](https://www.zaproxy.org/) — Open-source web application and API security testing platform.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon): Open source autonomous penetration testing platform, 50 specialist agents over MCP, reproducible proof of exploitation, self hosted.
 - [Burp Suite](https://portswigger.net/burp) — Security testing platform with API assessment capabilities.
 - [Postman](https://www.postman.com/) — API platform supporting automated security and functional testing.
 - [Insomnia](https://insomnia.rest/) — API testing platform supporting REST, GraphQL, and gRPC.
