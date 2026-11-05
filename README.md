@@ -115,6 +115,7 @@ Standards and guidance that support secure API design and governance.
 Books, documentation, courses, and educational resources.
 
 - [OWASP API Security Project](https://owasp.org/www-project-api-security/) — Security guidance, references, and testing resources.
+- [RMM API Integration Preflight Checklist](https://izikipizi.github.io/nizlo-msp-operations-resources/rmm-api-integration-preflight-checklist.html) — Free, vendor-neutral 18-check production review covering identity, tenant isolation, pagination, rate limits, write safety, webhooks, audit evidence, rollback, and ownership.
 - [API Security in Action](https://www.manning.com/books/api-security-in-action) — Practical guide to securing APIs.
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security) — Free security training including API security topics.
 - [Google API Design Guide](https://cloud.google.com/apis/design) — API design principles and recommendations.
